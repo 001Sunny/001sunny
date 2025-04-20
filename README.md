@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sunny kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img aglin="right" alt="coding" with="400" src="![image](https://github.com/user-attachments/assets/a08a46d8-cc93-4886-90ec-4d5b1ae51da6)">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=001sunny&label=Profile%20views&color=0e75b6&style=flat" alt="001sunny" /> </p>
 
 - 📫 How to reach me **sunnykumar7482816501@gmail.com**
